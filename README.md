@@ -11,7 +11,7 @@ The challenge is to:
 -Gradle 2.3+
 
 # Installation
-#### run unit tests
+#### junit tests
 
 ```sh
 gradle test
