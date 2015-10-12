@@ -6,11 +6,11 @@ The challenge is to:
   - That can take a Java int in the range 0 to 999,999,999 inclusive and returns the  equivalent number, as a String, in British English words.
 
 
-### Prerequisite
+## Prerequisite
 - Java 8
 - Gradle 2.3+
 
-# Installation
+## Installation
 #### junit tests
 
 ```sh
