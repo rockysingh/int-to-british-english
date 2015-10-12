@@ -7,8 +7,8 @@ The challenge is to:
 
 
 ### Prerequisite
--Java 8
--Gradle 2.3+
+- Java 8
+- Gradle 2.3+
 
 # Installation
 #### junit tests
